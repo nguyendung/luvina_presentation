@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights"
+all_model_checkpoint_paths: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights_8"
+all_model_checkpoint_paths: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights_9"
+all_model_checkpoint_paths: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights_10"
+all_model_checkpoint_paths: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights_11"
+all_model_checkpoint_paths: "/home/andy/Desktop/Andy/Ganda_presentation/demo_image_capturing/weights"
